@@ -80,8 +80,9 @@ The **head** of YOLOv8 is responsible for predicting object classes, bounding bo
 
 4. The output video will be saved in `CAR_detected.avi`, and the final car count will be saved to an Excel file.
 
-
-![Vehicle Detection](https://example.com/image.jpg)
+![image1](https://github.com/user-attachments/assets/b23fb50d-f75d-4cdf-bf0c-c09b60313207)
+![image2](https://github.com/user-attachments/assets/5be00ee9-4aea-474a-a4b2-42b9ec7488df)
+![image3](https://github.com/user-attachments/assets/eee76b67-e431-469e-ab54-85c4ba0e6ae2)
 
 
 
