@@ -1,6 +1,9 @@
 <div style="text-align: center; color: blue;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kinngWhaUKM?si=KdKJbntNwzVPTEG9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## My Favorite Video
 
+Here's a video that I find really inspiring:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kinngWhaUKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Here is some more information about my project.
 
 # Vehicle Detection and Counting with YOLOv8
