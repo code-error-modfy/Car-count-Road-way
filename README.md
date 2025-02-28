@@ -1,4 +1,11 @@
 <div style="text-align: center; color: blue;">
+# My Project
+
+This is a description of my project.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kinngWhaUKM?si=KdKJbntNwzVPTEG9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Here is some more information about my project.
 
 # Vehicle Detection and Counting with YOLOv8
 <a href="https://www.youtube.com/watch?v=M_be4fDyIAQ?start=24">Watch the video</a>
