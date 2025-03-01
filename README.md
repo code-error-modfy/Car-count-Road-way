@@ -1,5 +1,6 @@
 <div style="text-align: center; color: blue;">
 ## My Favorite Video
+[Watch the video on YouTube](https://www.youtube.com/watch?v=A8hbw3-D610)
 
 Here's a video that I find really inspiring:
 
