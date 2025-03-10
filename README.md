@@ -1,11 +1,5 @@
 <div style="text-align: center; color: blue;">
-## My Favorite Video
-[Watch the video on YouTube](https://www.youtube.com/watch?v=A8hbw3-D610)
 
-Here's a video that I find really inspiring:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kinngWhaUKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Here is some more information about my project.
 
 # Vehicle Detection and Counting with YOLOv8
 <a href="https://www.youtube.com/watch?v=M_be4fDyIAQ?start=24">Watch the video</a>
